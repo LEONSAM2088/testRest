@@ -10,7 +10,7 @@
 
 ![image](https://user-images.githubusercontent.com/54098301/138982456-2ef63d67-6138-4c56-9b69-d9ecc91af657.png)
 
-- Test cases described in testCases.md and `targets/site/surefire-report.html` (after run `site`)
+- Test cases also described in `targets/site/surefire-report.html` (after run `site`)
 
 | Summary | Steps  | Expected  | Result  |
 |---|---|---|---|
