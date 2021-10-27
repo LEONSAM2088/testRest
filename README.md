@@ -7,7 +7,9 @@
 | Summary | Image  | Expected  | Result  | Bug Severity | Type of bug |
 |---|---|---|---|---|---|
 |The request GET /posts/0 returned 404 Not Found |![image](https://user-images.githubusercontent.com/54098301/138980980-546d2040-a1b8-4696-b6d6-cb4feefc59c2.png)| Empty list with code 200|Status code 404| S2 | Functional |
-	
+
+![image](https://user-images.githubusercontent.com/54098301/138982456-2ef63d67-6138-4c56-9b69-d9ecc91af657.png)
+
 - Test cases described in testCases.md and `targets/site/surefire-report.html` (after run `site`)
 
 | Summary | Steps  | Expected  | Result  |
