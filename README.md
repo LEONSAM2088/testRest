@@ -15,7 +15,7 @@
 | Verify response when a GET resources by 'id' request is used  | #3  | The 'id' must be equal to the specified ID  | 'id' is equal to specified ID  |
 | Verify response when a CREATE resources request is used | #4 | The status code must be 201, and the fields in response must be equal fields in request | The status code is 201, and fields in response is equal fields in request |
 | Verify response when a UPDATE resources request is used | #5 | The status code must be 200. PUT request should return only the specified field and 'id', and the PATCH request should return all fields | Status code is 200, PUT request returned the specified fields, and PATCH returned all fields |
-| Verify response when a DELETE resources request is used | #6 | The status code must be 200 | The status code must is 200 |	
+| Verify response when a DELETE resources request is used | #6 | The status code must be 200 | The status code is 200 |	
 
 
 ## Stack
