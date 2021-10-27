@@ -23,6 +23,7 @@
 - Testing framework: JUnit
 - Build tool: Maven
 - HTTP client: RestAssured
+- Assertion libraries: Hamcrest
 
 ## DESCRIPTION:
 
