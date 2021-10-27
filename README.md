@@ -34,10 +34,6 @@
 - Get list of all resources
 
 2. Described P0 test cases in plain text about CREATE, UPDATE and DELETE operations.
-- To CREATE a resource filled the next mandatory fields in the body of the request: title, body, userId.
-- To UPDATE a resource filled necessary filed(s) in the body of the request.
-- Described test cases.
-
 		
 3. Created a bug report for the next issue:
 `The request GET /posts/0 returned 404 Not Found, but you expect an empty list with 200 OK`
