@@ -2,12 +2,13 @@
 
 
 ## Reports
-- Path of bug reports: targets/site/surefire-report.html (after run `site`)
-
-	![image](https://user-images.githubusercontent.com/54098301/138978010-0401b067-ce43-4b62-9f5a-a582f930003b.png)
-	![image](https://user-images.githubusercontent.com/54098301/138978166-0ec7994c-3c65-4b5f-bc80-e2b5d30c3af4.png)
-
-- Test cases described in testCases.md
+- Bug report: 
+	
+| Summary | Image  | Expected  | Result  | Bug Severity | Type of bug |
+|---|---|---|---|---|---|
+|The request GET /posts/0 returned 404 Not Found |![image](https://user-images.githubusercontent.com/54098301/138980980-546d2040-a1b8-4696-b6d6-cb4feefc59c2.png)| Empty list with code 200|Status code 404| S2 | Functional |
+	
+- Test cases described in testCases.md and `targets/site/surefire-report.html` (after run `site`)
 
 | Summary | Steps  | Expected  | Result  |
 |---|---|---|---|
