@@ -3,10 +3,11 @@
 
 ## Reports
 - Path of bug reports: targets/site/surefire-report.html (after run `site`)
+
 	![image](https://user-images.githubusercontent.com/54098301/138978010-0401b067-ce43-4b62-9f5a-a582f930003b.png)
 	![image](https://user-images.githubusercontent.com/54098301/138978166-0ec7994c-3c65-4b5f-bc80-e2b5d30c3af4.png)
 
-- Test cases describe in testCases.md
+- Test cases described in testCases.md
 
 | Summary | Steps  | Expected  | Result  |
 |---|---|---|---|
